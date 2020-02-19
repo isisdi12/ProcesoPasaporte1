@@ -1,0 +1,57 @@
+C:\Users\Paula V\Desktop\Proyecto\emision-pasaportes\ProcesoPasaporte\ProcesoPasaporte\bin\Debug\ProcesoPasaporte.exe.config
+C:\Users\Paula V\Desktop\Proyecto\emision-pasaportes\ProcesoPasaporte\ProcesoPasaporte\bin\Debug\ProcesoPasaporte.exe
+C:\Users\Paula V\Desktop\Proyecto\emision-pasaportes\ProcesoPasaporte\ProcesoPasaporte\bin\Debug\ProcesoPasaporte.pdb
+C:\Users\Paula V\Desktop\Proyecto\emision-pasaportes\ProcesoPasaporte\ProcesoPasaporte\obj\Debug\ProcesoPasaporte.csprojAssemblyReference.cache
+C:\Users\Paula V\Desktop\Proyecto\emision-pasaportes\ProcesoPasaporte\ProcesoPasaporte\obj\Debug\ProcesoPasaporte.FrmArchivos.resources
+C:\Users\Paula V\Desktop\Proyecto\emision-pasaportes\ProcesoPasaporte\ProcesoPasaporte\obj\Debug\ProcesoPasaporte.FrmImpresionPasaporte.resources
+C:\Users\Paula V\Desktop\Proyecto\emision-pasaportes\ProcesoPasaporte\ProcesoPasaporte\obj\Debug\ProcesoPasaporte.FrmMenuPrincipalAdmon.resources
+C:\Users\Paula V\Desktop\Proyecto\emision-pasaportes\ProcesoPasaporte\ProcesoPasaporte\obj\Debug\ProcesoPasaporte.FrmNuevoPasaporteAdulto.resources
+C:\Users\Paula V\Desktop\Proyecto\emision-pasaportes\ProcesoPasaporte\ProcesoPasaporte\obj\Debug\ProcesoPasaporte.FrmLogin.resources
+C:\Users\Paula V\Desktop\Proyecto\emision-pasaportes\ProcesoPasaporte\ProcesoPasaporte\obj\Debug\ProcesoPasaporte.FrmMenuAdmon.resources
+C:\Users\Paula V\Desktop\Proyecto\emision-pasaportes\ProcesoPasaporte\ProcesoPasaporte\obj\Debug\ProcesoPasaporte.FrmNuevo_Renovacion.resources
+C:\Users\Paula V\Desktop\Proyecto\emision-pasaportes\ProcesoPasaporte\ProcesoPasaporte\obj\Debug\ProcesoPasaporte.FrmNuevoPasaporteMayor60.resources
+C:\Users\Paula V\Desktop\Proyecto\emision-pasaportes\ProcesoPasaporte\ProcesoPasaporte\obj\Debug\ProcesoPasaporte.FrmNuevoPasaporteMenor.resources
+C:\Users\Paula V\Desktop\Proyecto\emision-pasaportes\ProcesoPasaporte\ProcesoPasaporte\obj\Debug\ProcesoPasaporte.FrmRenovacionMayor60.resources
+C:\Users\Paula V\Desktop\Proyecto\emision-pasaportes\ProcesoPasaporte\ProcesoPasaporte\obj\Debug\ProcesoPasaporte.FrmRenovacionPasaporteAdulto.resources
+C:\Users\Paula V\Desktop\Proyecto\emision-pasaportes\ProcesoPasaporte\ProcesoPasaporte\obj\Debug\ProcesoPasaporte.FrmRenovacionPasaporteMenor.resources
+C:\Users\Paula V\Desktop\Proyecto\emision-pasaportes\ProcesoPasaporte\ProcesoPasaporte\obj\Debug\ProcesoPasaporte.FrmSaludoAdmon.resources
+C:\Users\Paula V\Desktop\Proyecto\emision-pasaportes\ProcesoPasaporte\ProcesoPasaporte\obj\Debug\ProcesoPasaporte.SALUDO.resources
+C:\Users\Paula V\Desktop\Proyecto\emision-pasaportes\ProcesoPasaporte\ProcesoPasaporte\obj\Debug\ProcesoPasaporte.Properties.Resources.resources
+C:\Users\Paula V\Desktop\Proyecto\emision-pasaportes\ProcesoPasaporte\ProcesoPasaporte\obj\Debug\ProcesoPasaporte.csproj.GenerateResource.cache
+C:\Users\Paula V\Desktop\Proyecto\emision-pasaportes\ProcesoPasaporte\ProcesoPasaporte\obj\Debug\ProcesoPasaporte.exe
+C:\Users\Paula V\Desktop\Proyecto\emision-pasaportes\ProcesoPasaporte\ProcesoPasaporte\obj\Debug\ProcesoPasaporte.pdb
+C:\Users\Paula V\Desktop\Proyecto\emision-pasaportes\ProcesoPasaporte\ProcesoPasaporte\obj\Debug\ProcesoPasaporte.FrmMenuAdmon1.resources
+C:\Users\Paula V\Desktop\Proyecto\emision-pasaportes\ProcesoPasaporte\ProcesoPasaporte\obj\Debug\ProcesoPasaporte.FrmMenuUsuarioNuevo.resources
+C:\Users\Paula V\Desktop\Proyecto\emision-pasaportes\ProcesoPasaporte\ProcesoPasaporte\obj\Debug\ProcesoPasaporte.FrmMenuUsuarioRenovacion.resources
+C:\Users\Paula V\Desktop\Proyecto\emision-pasaportes\ProcesoPasaporte\ProcesoPasaporte\obj\Debug\ProcesoPasaporte.FrmTipodeArchivoNuevo.resources
+C:\Users\Paula V\Desktop\Proyecto\emision-pasaportes\ProcesoPasaporte\ProcesoPasaporte\obj\Debug\ProcesoPasaporte.FrmTipodeArchivoRenovacion.resources
+C:\Users\ISIS\Desktop\2020\1er Semestre\Ing. Software\emision-pasaportes-master\ProcesoPasaporte\ProcesoPasaporte\bin\Debug\ProcesoPasaporte.exe.config
+C:\Users\ISIS\Desktop\2020\1er Semestre\Ing. Software\emision-pasaportes-master\ProcesoPasaporte\ProcesoPasaporte\bin\Debug\ProcesoPasaporte.exe
+C:\Users\ISIS\Desktop\2020\1er Semestre\Ing. Software\emision-pasaportes-master\ProcesoPasaporte\ProcesoPasaporte\bin\Debug\ProcesoPasaporte.pdb
+C:\Users\ISIS\Desktop\2020\1er Semestre\Ing. Software\emision-pasaportes-master\ProcesoPasaporte\ProcesoPasaporte\obj\Debug\ProcesoPasaporte.csprojAssemblyReference.cache
+C:\Users\ISIS\Desktop\2020\1er Semestre\Ing. Software\emision-pasaportes-master\ProcesoPasaporte\ProcesoPasaporte\obj\Debug\ProcesoPasaporte.FrmImpresionPasaporte.resources
+C:\Users\ISIS\Desktop\2020\1er Semestre\Ing. Software\emision-pasaportes-master\ProcesoPasaporte\ProcesoPasaporte\obj\Debug\ProcesoPasaporte.FrmMenuAdmon1.resources
+C:\Users\ISIS\Desktop\2020\1er Semestre\Ing. Software\emision-pasaportes-master\ProcesoPasaporte\ProcesoPasaporte\obj\Debug\ProcesoPasaporte.FrmMenuPrincipalAdmon.resources
+C:\Users\ISIS\Desktop\2020\1er Semestre\Ing. Software\emision-pasaportes-master\ProcesoPasaporte\ProcesoPasaporte\obj\Debug\ProcesoPasaporte.FrmMenuUsuarioNuevo.resources
+C:\Users\ISIS\Desktop\2020\1er Semestre\Ing. Software\emision-pasaportes-master\ProcesoPasaporte\ProcesoPasaporte\obj\Debug\ProcesoPasaporte.FrmNuevoPasaporteAdulto.resources
+C:\Users\ISIS\Desktop\2020\1er Semestre\Ing. Software\emision-pasaportes-master\ProcesoPasaporte\ProcesoPasaporte\obj\Debug\ProcesoPasaporte.FrmLogin.resources
+C:\Users\ISIS\Desktop\2020\1er Semestre\Ing. Software\emision-pasaportes-master\ProcesoPasaporte\ProcesoPasaporte\obj\Debug\ProcesoPasaporte.FrmMenuAdmon.resources
+C:\Users\ISIS\Desktop\2020\1er Semestre\Ing. Software\emision-pasaportes-master\ProcesoPasaporte\ProcesoPasaporte\obj\Debug\ProcesoPasaporte.FrmMenuUsuarioRenovacion.resources
+C:\Users\ISIS\Desktop\2020\1er Semestre\Ing. Software\emision-pasaportes-master\ProcesoPasaporte\ProcesoPasaporte\obj\Debug\ProcesoPasaporte.FrmNuevo_Renovacion.resources
+C:\Users\ISIS\Desktop\2020\1er Semestre\Ing. Software\emision-pasaportes-master\ProcesoPasaporte\ProcesoPasaporte\obj\Debug\ProcesoPasaporte.FrmNuevoPasaporteMayor60.resources
+C:\Users\ISIS\Desktop\2020\1er Semestre\Ing. Software\emision-pasaportes-master\ProcesoPasaporte\ProcesoPasaporte\obj\Debug\ProcesoPasaporte.FrmNuevoPasaporteMenor.resources
+C:\Users\ISIS\Desktop\2020\1er Semestre\Ing. Software\emision-pasaportes-master\ProcesoPasaporte\ProcesoPasaporte\obj\Debug\ProcesoPasaporte.FrmRenovacionMayor60.resources
+C:\Users\ISIS\Desktop\2020\1er Semestre\Ing. Software\emision-pasaportes-master\ProcesoPasaporte\ProcesoPasaporte\obj\Debug\ProcesoPasaporte.FrmRenovacionPasaporteAdulto.resources
+C:\Users\ISIS\Desktop\2020\1er Semestre\Ing. Software\emision-pasaportes-master\ProcesoPasaporte\ProcesoPasaporte\obj\Debug\ProcesoPasaporte.FrmRenovacionPasaporteMenor.resources
+C:\Users\ISIS\Desktop\2020\1er Semestre\Ing. Software\emision-pasaportes-master\ProcesoPasaporte\ProcesoPasaporte\obj\Debug\ProcesoPasaporte.FrmSaludoAdmon.resources
+C:\Users\ISIS\Desktop\2020\1er Semestre\Ing. Software\emision-pasaportes-master\ProcesoPasaporte\ProcesoPasaporte\obj\Debug\ProcesoPasaporte.SALUDO.resources
+C:\Users\ISIS\Desktop\2020\1er Semestre\Ing. Software\emision-pasaportes-master\ProcesoPasaporte\ProcesoPasaporte\obj\Debug\ProcesoPasaporte.FrmTipodeArchivoNuevo.resources
+C:\Users\ISIS\Desktop\2020\1er Semestre\Ing. Software\emision-pasaportes-master\ProcesoPasaporte\ProcesoPasaporte\obj\Debug\ProcesoPasaporte.FrmTipodeArchivoRenovacion.resources
+C:\Users\ISIS\Desktop\2020\1er Semestre\Ing. Software\emision-pasaportes-master\ProcesoPasaporte\ProcesoPasaporte\obj\Debug\ProcesoPasaporte.Properties.Resources.resources
+C:\Users\ISIS\Desktop\2020\1er Semestre\Ing. Software\emision-pasaportes-master\ProcesoPasaporte\ProcesoPasaporte\obj\Debug\ProcesoPasaporte.csproj.GenerateResource.cache
+C:\Users\ISIS\Desktop\2020\1er Semestre\Ing. Software\emision-pasaportes-master\ProcesoPasaporte\ProcesoPasaporte\obj\Debug\ProcesoPasaporte.csproj.CoreCompileInputs.cache
+C:\Users\ISIS\Desktop\2020\1er Semestre\Ing. Software\emision-pasaportes-master\ProcesoPasaporte\ProcesoPasaporte\obj\Debug\ProcesoPasaporte.exe
+C:\Users\ISIS\Desktop\2020\1er Semestre\Ing. Software\emision-pasaportes-master\ProcesoPasaporte\ProcesoPasaporte\obj\Debug\ProcesoPasaporte.pdb
+C:\Users\ISIS\Desktop\2020\1er Semestre\Ing. Software\emision-pasaportes-master\ProcesoPasaporte\ProcesoPasaporte\obj\Debug\ProcesoPasaporte.FrmArchivosAdultos.resources
+C:\Users\ISIS\Desktop\2020\1er Semestre\Ing. Software\emision-pasaportes-master\ProcesoPasaporte\ProcesoPasaporte\obj\Debug\ProcesoPasaporte.FrmArchivosMayores60.resources
+C:\Users\ISIS\Desktop\2020\1er Semestre\Ing. Software\emision-pasaportes-master\ProcesoPasaporte\ProcesoPasaporte\obj\Debug\ProcesoPasaporte.FrmArchivosMenores.resources

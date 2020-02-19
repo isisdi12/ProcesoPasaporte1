@@ -1,0 +1,265 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{74CFF6AC-BCB3-464B-AC87-B3BC6F247C0F}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>ProcesoPasaporte</RootNamespace>
+    <AssemblyName>ProcesoPasaporte</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="CLSLogin.cs" />
+    <Compile Include="Conexion.cs" />
+    <Compile Include="FrmArchivosAdultos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmArchivosAdultos.Designer.cs">
+      <DependentUpon>FrmArchivosAdultos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmArchivosMayores60.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmArchivosMayores60.Designer.cs">
+      <DependentUpon>FrmArchivosMayores60.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmArchivosMenores.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmArchivosMenores.Designer.cs">
+      <DependentUpon>FrmArchivosMenores.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmImpresionPasaporte.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmImpresionPasaporte.Designer.cs">
+      <DependentUpon>FrmImpresionPasaporte.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmMenuAdmon1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmMenuAdmon1.Designer.cs">
+      <DependentUpon>FrmMenuAdmon1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmMenuUsuarioNuevo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmMenuUsuarioNuevo.Designer.cs">
+      <DependentUpon>FrmMenuUsuarioNuevo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmNuevoPasaporteAdulto.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmNuevoPasaporteAdulto.Designer.cs">
+      <DependentUpon>FrmNuevoPasaporteAdulto.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmLogin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmLogin.Designer.cs">
+      <DependentUpon>FrmLogin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmMenuUsuarioRenovacion.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmMenuUsuarioRenovacion.Designer.cs">
+      <DependentUpon>FrmMenuUsuarioRenovacion.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmMenuAdmon.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmMenuAdmon.Designer.cs">
+      <DependentUpon>FrmMenuAdmon.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmNuevo-Renovacion.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmNuevo-Renovacion.Designer.cs">
+      <DependentUpon>FrmNuevo-Renovacion.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmNuevoPasaporteMayor60.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmNuevoPasaporteMayor60.Designer.cs">
+      <DependentUpon>FrmNuevoPasaporteMayor60.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmNuevoPasaporteMenor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmNuevoPasaporteMenor.Designer.cs">
+      <DependentUpon>FrmNuevoPasaporteMenor.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmRenovacionMayor60.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmRenovacionMayor60.Designer.cs">
+      <DependentUpon>FrmRenovacionMayor60.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmRenovacionPasaporteAdulto.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmRenovacionPasaporteAdulto.Designer.cs">
+      <DependentUpon>FrmRenovacionPasaporteAdulto.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmRenovacionPasaporteMenor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmRenovacionPasaporteMenor.Designer.cs">
+      <DependentUpon>FrmRenovacionPasaporteMenor.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmSaludoUsuario.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmSaludoUsuario.Designer.cs">
+      <DependentUpon>FrmSaludoUsuario.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmSaludoAdmon.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmSaludoAdmon.Designer.cs">
+      <DependentUpon>FrmSaludoAdmon.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmTipodeArchivoNuevo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmTipodeArchivoNuevo.Designer.cs">
+      <DependentUpon>FrmTipodeArchivoNuevo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmMenuPrincipalAdmon.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmMenuPrincipalAdmon.Designer.cs">
+      <DependentUpon>FrmMenuPrincipalAdmon.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmTipodeArchivoRenovacion.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmTipodeArchivoRenovacion.Designer.cs">
+      <DependentUpon>FrmTipodeArchivoRenovacion.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="FrmArchivosAdultos.resx">
+      <DependentUpon>FrmArchivosAdultos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmArchivosMayores60.resx">
+      <DependentUpon>FrmArchivosMayores60.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmArchivosMenores.resx">
+      <DependentUpon>FrmArchivosMenores.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmImpresionPasaporte.resx">
+      <DependentUpon>FrmImpresionPasaporte.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmMenuAdmon1.resx">
+      <DependentUpon>FrmMenuAdmon1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmMenuPrincipalAdmon.resx">
+      <DependentUpon>FrmMenuPrincipalAdmon.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmMenuUsuarioNuevo.resx">
+      <DependentUpon>FrmMenuUsuarioNuevo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmNuevoPasaporteAdulto.resx">
+      <DependentUpon>FrmNuevoPasaporteAdulto.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmLogin.resx">
+      <DependentUpon>FrmLogin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmMenuAdmon.resx">
+      <DependentUpon>FrmMenuAdmon.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmMenuUsuarioRenovacion.resx">
+      <DependentUpon>FrmMenuUsuarioRenovacion.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmNuevo-Renovacion.resx">
+      <DependentUpon>FrmNuevo-Renovacion.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmNuevoPasaporteMayor60.resx">
+      <DependentUpon>FrmNuevoPasaporteMayor60.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmNuevoPasaporteMenor.resx">
+      <DependentUpon>FrmNuevoPasaporteMenor.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmRenovacionMayor60.resx">
+      <DependentUpon>FrmRenovacionMayor60.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmRenovacionPasaporteAdulto.resx">
+      <DependentUpon>FrmRenovacionPasaporteAdulto.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmRenovacionPasaporteMenor.resx">
+      <DependentUpon>FrmRenovacionPasaporteMenor.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmSaludoAdmon.resx">
+      <DependentUpon>FrmSaludoAdmon.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmSaludoUsuario.resx">
+      <DependentUpon>FrmSaludoUsuario.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmTipodeArchivoNuevo.resx">
+      <DependentUpon>FrmTipodeArchivoNuevo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmTipodeArchivoRenovacion.resx">
+      <DependentUpon>FrmTipodeArchivoRenovacion.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>
